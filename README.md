@@ -15,7 +15,7 @@ If a company isn’t mentioned in AI responses, it loses visibility and trust.
 - Similarweb AI Visibility
 
 ## Full article
-https://www.vizii.io/articles/ai-brand-mention-checker-tools
+[https://www.vizii.io/articles/ai-brand-mention-checker-tools](https://www.vizii.io/articles/ai-visibility-explained-how-brands-show-up-(or-disappear)-in-chatgpt-and-other-ai-answers)
 
 ## Medium version
 https://medium.com/@ronschwartz8/ai-brand-mention-checker-tools-how-to-see-if-chatgpt-mentions-your-brand-2025-guide-b701518bbc9f
